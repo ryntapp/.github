@@ -4,7 +4,7 @@
     <img src="https://user-images.githubusercontent.com/8019099/133430653-24422d2a-3c8d-4052-9ad6-0580597151ee.png" alt="Logo">
   </a>
 
-  <h3 align="center">Cal.com, Inc.</h3>
+  <h3 align="center">RYNT, Inc.</h3>
 
   <p align="center">
     Identity-led rental marketplace
